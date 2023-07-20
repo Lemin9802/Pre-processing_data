@@ -1,0 +1,8 @@
+Link dashboard: 
+https://public.tableau.com/views/DashboardaboutparametersoffashionitemsLatest/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+Link chart 1:
+https://public.tableau.com/views/Chart1Latest_16895062137240/Chart1?:language=en-US&:display_count=n&:origin=viz_share_link
+Link chart 2:
+https://public.tableau.com/views/Chart2Latest/Chart2?:language=en-US&:display_count=n&:origin=viz_share_link
+Link chart 3:
+https://public.tableau.com/views/Chart3_16895063860820/Chart3?:language=en-US&:display_count=n&:origin=viz_share_link
